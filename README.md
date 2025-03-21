@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Suichoku also known as Suizo, or by my real name Tuomas
+- 👋 Hi, I’m @Suichoku also known as Suizo
 - 👀 I’m interested in music, video games and anime. Coding is nice too
-- 🌱 I’m currently learning typescript, after it comes react and hopefully starting my thesis
-- 📫 You can reach me on twitter https://twitter.com/Stoorm333
+- 🌱 I’m currently relearning things I forgot while away from coding
 
 <!---
 Suichoku/Suichoku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
